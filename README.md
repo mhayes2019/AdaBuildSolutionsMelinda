@@ -1,2 +1,2 @@
 # Ada Build Solutions Melinda
-A store to place my Ada Build Solutions
+A place to store my Ada Build Solutions
